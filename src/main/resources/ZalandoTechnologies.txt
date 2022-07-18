@@ -1,0 +1,73 @@
+﻿id;Ring;TechnologyType;TechnologyName
+1;Trial;Datastores;Amazon Redshift
+2;Trial;Datastores;Druid
+3;Hold;Data Management;AWS Data Pipeline
+4;Assess;Datastores;Google Bigtable
+5;Assess;Datastores;RocksDB
+6;Adopt;Datastores;AWS DynamoDB
+7;Hold;Data Management;ActiveMQ
+8;Trial;Datastores;HDFS
+9;Hold;Data Management;Hadoop
+10;Hold;Datastores;ZooKeeper
+11;Trial;Data Management;Presto
+12;Hold;Datastores;MySQL
+13;Hold;Datastores;Oracle DB
+14;Assess;Data Management;AWS Glue
+15;Hold;Datastores;MongoDB
+16;Trial;Data Management;RabbitMQ
+17;Assess;Data Management;AWS Athena
+18;Adopt;Languages;Go
+19;Trial;Infrastructure;AWS Lambda
+20;Adopt;Infrastructure;Amazon SageMaker
+21;Adopt;Languages;JavaScript
+22;Trial;Languages;Dart
+23;Adopt;Infrastructure;AWS CloudFront
+24;Adopt;Infrastructure;Docker
+25;Hold;Languages;Clojure
+26;Adopt;Infrastructure;Nginx
+27;Hold;Datastores;Hazelcast
+28;Hold;Datastores;Hbase
+29;Hold;Datastores;Memcached
+30;Assess;Languages;R
+31;Adopt;Infrastructure;Kubernetes
+32;Hold;Languages;Haskell
+33;Hold;Languages;Rust
+34;Adopt;Data Management;Spark
+35;Trial;Data Management;AWS Kinesis
+36;Adopt;Infrastructure;ZMON
+37;Adopt;Languages;GraphQL
+38;Adopt;Languages;Java
+39;Adopt;Infrastructure;AWS CloudFormation
+40;Assess;Data Management;dbt
+41;Adopt;Languages;OpenAPI (Swagger)
+42;Adopt;Datastores;Cassandra
+43;Adopt;Languages;Scala
+44;Adopt;Data Management;Nakadi
+45;Hold;Data Management;YARN
+46;Adopt;Languages;Swift
+47;Adopt;Languages;TypeScript
+48;Assess;Infrastructure;Slurm
+49;Hold;Infrastructure;STUPS
+50;Trial;Data Management;Flink
+51;Trial;Data Management;Google BigQuery
+52;Adopt;Infrastructure;OpenTracing
+53;Adopt;Infrastructure;Skipper
+54;Adopt;Datastores;AWS S3
+55;Adopt;Languages;Python
+56;Hold;Datastores;Solr
+57;Adopt;Data Management;AWS EMR
+58;Adopt;Data Management;AWS SNS
+59;Adopt;Data Management;AWS SQS
+60;Adopt;Datastores;Elasticsearch
+61;Adopt;Datastores;etcd
+62;Adopt;Datastores;Exasol
+63;Hold;Data Management;HornetQ
+64;Adopt;Datastores;PostgreSQL
+65;Adopt;Datastores;Redis
+66;Adopt;Languages;Kotlin
+67;Adopt;Data Management;Airflow
+68;Hold;Datastores;Aerospike
+69;Adopt;Data Management;Kafka
+70;Hold;Datastores;CouchBase
+71;Adopt;Data Management;Databricks
+72;Hold;Datastores;Consul
